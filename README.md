@@ -1,224 +1,168 @@
-Path to a free self-taught education in Sociology
+<div align="center" style="text-align: center">
+<img src="images/logo.webp" alt=""/>
+<h3>Hocbigg - Sociology</h3>
+<p>
+Path to a free self-taught education in Sociology!
+</p>
+</div>
+
+# Contents
+
+- [Summary](#summary)
+- [Curriculum](#curriculum)
+- [Code of conduct](#code-of-conduct)
 
 # Summary
 
-This program is a full, university-level sociology major built from MIT OpenCourseWare, edX, Coursera, HarvardX, Stanford Online, and authoritative textbooks when no suitable open course exists. It mirrors the depth and sequencing of a 4-year undergraduate major—minus general-education coursework—compressed into a feasible 1–2-year track at ~20 hours per week.
+The Sociology curriculum is a **complete education in Sociology** using online materials.
 
-Its aim is to help you understand how societies work: social structures, institutions, inequality, culture, identity, power, methods, theory, and the scientific study of social life. You’ll learn classical and contemporary theory, statistical and qualitative methods, research design, and a wide range of substantive areas from race and gender to political economy and globalization. The whole route builds toward a research-ready capstone.
+This curriculum offers a comprehensive, self-paced, globally accessible sociology education equivalent to a 4-year undergraduate major (minus general-education courses). It uses high-quality open courses from MIT OCW, edX, Coursera, Harvard Open Learning, Open Yale Courses, Stanford Online, and authoritative textbooks where necessary.
+
+The program emphasizes theory, research methods, data analysis, and substantive domains of sociological inquiry. It is designed for independent learners developing strong academic habits, critical reasoning, and the ability to interpret and conduct sociological research.
+
+When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
+they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
 
 ## Organization
 
-• **Intro Sociology**: Orientation, fundamentals of the discipline, and academic habits.
-• **Core Sociology**: Roughly the first three years of major coursework: methods, statistics, classical and contemporary theory, major subfields.
-• **Advanced Sociology**: Final-year style electives. Choose one specialization track.
-• **Final Project**: A capstone research project demonstrating methodological competence and theoretical grounding.
+* **Intro Sociology**: Orientation, foundational knowledge, and basic academic habits.
+* **Core Sociology**: Canonical theories, research methods, statistics, and major subfields.
+* **Advanced Sociology**: Elective specializations to build expertise.
+* **Final Project**: A capstone research project suitable for sharing, peer review, or portfolio inclusion.
 
-## Duration
+**Duration**. **1–2 years** at **~20 hours/week**, depending on pace and experience with research and writing.
 
-**1–2 years** at **~20 hours/week**, divided into sequenced phases.
+**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
 
----
+- We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
+- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week. A popular option is to take the math courses in parallel with the introductory courses. Course prerequisites are listed to help you determine if you are prepared for a given course.
+- Courses in Advanced are electives. Choose one subject (e.g. ) you want to become an expert in and take all the courses under that heading.
 
-# 1. Program Overview
-
-## Learning goals and competencies
-
-You will be able to:
-• Explain foundational sociological theories (Marx, Durkheim, Weber; structuralism; symbolic interactionism; rational choice; intersectionality; postcolonial theory).
-• Apply qualitative and quantitative research methods.
-• Design, conduct, analyze, and communicate original sociological research.
-• Understand major subfields: inequality, institutions, race/ethnicity, gender, social networks, organizations, culture, deviance, political sociology.
-• Evaluate empirical research critically, detect methodological flaws, and place findings in theoretical context.
-• Write rigorous academic essays, literature reviews, and research proposals.
-
-## Skills map
-
-**Theory**: classical thinkers, contemporary schools, social change, power, culture.
-**Methods**: research design, statistics, intro data analysis (R or Python), interviewing, ethnography, comparative methods.
-**Tools**: basic statistical programming, bibliographic management, qualitative note-coding workflow.
-**Practice**: case studies, mini-fieldwork, data analysis projects, literature reviews, capstone thesis.
-
----
-
-# 2. Plan and Sequencing (1–2 years)
-
-Below is the recommended sequencing. After the tables, a prerequisite graph is provided.
-
----
+**[How to contribute](CONTRIBUTING.md)**
 
 # Curriculum
 
-## Intro Sociology (Start Here)
+- [Intro Sociology](#intro-sociology)
+- [Core Sociology](#core-sociology)
+    - [Theory & Foundations](#theory--foundations)
+    - [Research Methods](#research-methods)
+    - [Statistics & Data Skills](#statistics--data-skills)
+    - [Substantive Core Areas](#substantive-core-areas)
+- [Advanced Sociology](#advanced-sociology)
+    - [Culture, Identity & Social Theory](#culture-identity--social-theory)
+    - [Inequality, Organizations, & Labor](#inequality-organizations--labor)
+    - [Globalization, Development, & Environment](#globalization-development--environment)
+    - [Digital Society & Technology](#digital-society--technology)
+- [Final Project](#final-project)
 
-| Courses                                                                                                             | Duration | Effort        | Prerequisites | Notes                                                                            |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ------------- | ------------- | -------------------------------------------------------------------------------- |
-| [Introduction to Sociology (MIT OCW)](https://ocw.mit.edu/courses/21a-00-introduction-to-anthropology-spring-2013/) | 12 weeks | ~5–6 hrs/week | None          | MIT’s intro spans sociology–anthropology foundations; excellent theory overview. |
-| [Global Sociology (edX – WellesleyX)](https://www.edx.org/course/global-sociology)                                  | 6 weeks  | ~5 hrs/week   | None          | Global perspective; tests fit for comparative and international sociology.       |
-| [Learning How to Learn (Coursera)](https://www.coursera.org/learn/learning-how-to-learn)                            | 4 weeks  | 2–3 hrs/week  | None          | Builds study skills and cognitive habits.                                        |
 
-**Why included:** Establishes disciplinary foundations, builds academic habits, tests readiness.
+## Intro Sociology
 
----
+Essential orientation and foundational understanding of the discipline.
 
-## Core Sociology (Year 1–1.5 Equivalent)
-
-### A. Social Theory
-
-| Courses                                                                                                | Duration   | Effort      | Prerequisites    | Notes                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------ | ---------- | ----------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classical Theory** – *Textbook Module*                                                               | Self-paced | ~4 hrs/week | Intro            | No high-quality MOOC exists. Use: *Ritzer & Stepnisky, Classical Sociological Theory (paid)*; Free alternative: *Giddens’ “Capitalism and Modern Social Theory” (PDF widely accessible)*. |
-| [Classical Social Theory (Coursera – CalArts)](https://www.coursera.org/learn/classical-social-theory) | 4 weeks    | 6 hrs/week  | Intro            | Good supplement on Marx, Durkheim, Weber.                                                                                                                                                 |
-| **Contemporary Theory** – *Textbook Module*                                                            | Self-paced | ~4 hrs/week | Classical Theory | Use: *Ritzer, Contemporary Sociological Theory (paid);* Free alternative: *Stanford Encyclopedia of Philosophy (topic entries)*.                                                          |
-
-### B. Research Methods (Qualitative + Quantitative)
-
-| Courses                                                                                                                                        | Duration   | Effort         | Prerequisites | Notes                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [Introduction to Sociology Research Methods (Coursera – Amsterdam)](https://www.coursera.org/learn/introduction-to-sociology-research-methods) | 6 weeks    | 6 hrs/week     | Intro         | Excellent overview.                                                                                                    |
-| **Qualitative Methods (Textbook)**                                                                                                             | Self-paced | 4 hrs/week     | Intro         | Use Charmaz *Constructing Grounded Theory* (best paid); free alternative: *Weiss, “Learning from Strangers”* excerpts. |
-| [Data Analysis for Social Scientists (MITx)](https://www.edx.org/course/data-analysis-for-social-scientists)                                   | 12 weeks   | 10–12 hrs/week | Basic math    | Rigorous quantitative intro (R-based).                                                                                 |
-| [Statistics and R (edX – HarvardX PH525.1)](https://www.edx.org/course/statistics-and-r)                                                       | 4 weeks    | 3–4 hrs/week   | None          | Bridges basic stats with R.                                                                                            |
-
-### C. Key Subfields of Sociology
-
-| Course                                                                                                                                         | Duration   | Effort       | Notes                                                           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ | --------------------------------------------------------------- |
-| [Race and Cultural Diversity in American Life and History (MIT OCW)](https://ocw.mit.edu/courses/21h-001-how-to-stage-a-revolution-fall-2014/) | 12 weeks   | 6 hrs/week   | Actually two courses—choose the Race & Ethnicity content block. |
-| [Gender and Sexuality (Coursera – Amsterdam)](https://www.coursera.org/learn/gender-sexuality)                                                 | 7 weeks    | 5 hrs/week   | Solid modern gender studies foundation.                         |
-| [Social Networks (Coursera – Univ. Michigan)](https://www.coursera.org/learn/social-network-analysis)                                          | 10 weeks   | 4–5 hrs/week | SNA is increasingly core; includes hands-on network analysis.   |
-| [Political Sociology (Coursera – U. Amsterdam)](https://www.coursera.org/learn/political-sociology)                                            | 6 weeks    | 5 hrs/week   | State, power, institutions.                                     |
-| [Economic Sociology (Coursera – HSE Univ.)](https://www.coursera.org/learn/economic-sociology)                                                 | 6 weeks    | 6 hrs/week   | Markets, exchange, institutional foundations.                   |
-| [Globalization (MIT OCW)](https://ocw.mit.edu/courses/21a-382c-sociology-of-media-globalization-fall-2013/)                                    | Self-paced | 5 hrs/week   | Media + globalization from MIT anthropological-sociology angle. |
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :---------------------------------------------------------------------------------------------------------------- | :---------: | :---------: | :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [Introduction to Sociology – MIT OCW](https://ocw.mit.edu/courses/21a-01-introduction-to-anthropology-fall-2018/) | 14 weeks | 6–10 hrs/wk | none | MIT’s course titled “Anthropology” functions as an intro socio-cultural foundations. For classic sociology framing, pair with Yale below. |
+| [Introduction to Sociology – Yale OYC (Giddens/Collins tradition)](https://oyc.yale.edu/sociology/socy-151) | 24 lectures | ~8 hrs/wk | none | High-quality, canonical intro to sociology. |
+| [Learning How to Learn – Coursera](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2–3 hrs/wk | none | Academic habits, spaced repetition, note-taking. |
 
 ---
 
-## Advanced Sociology (Choose One Concentration)
+## Core Sociology
 
-Choose **one track** (but electives across tracks also fine). Designed as “final-year” depth.
+This corresponds to roughly years 1–3 of an undergraduate major.
 
-### Track A: Inequality, Race, Gender
+### Theory & Foundations
 
-• [The Civil War and the Problem of Inequality (MIT OCW)](https://ocw.mit.edu/courses/21h-356-the-civil-war-and-the-problem-of-inequality-spring-2008/)
-• [Social Stratification (Coursera – HSE)](https://www.coursera.org/learn/social-stratification)
-• Textbook: *Massey, Categorically Unequal* (paid; excellent).
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :------------------------------------------------ | :------: | :--------: | :--------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Classical Sociological Theory (Textbook-based) | — | 5–8 hrs/wk | Intro | **Primary text:** *Classical Sociological Theory* by Calhoun et al. (best authoritative). **Free alternative:** *Sociological Theory* by George Ritzer (older editions often freely accessible via libraries). |
+| Contemporary Sociological Theory (Textbook-based) | — | 5–8 hrs/wk | Classical Theory | **Primary text:** *Contemporary Sociological Theory and Its Classical Roots* by Ritzer & Stepnisky. Free alternative: older OER readers via Saylor Academy. |
 
-### Track B: Political Economy & Development
+### Research Methods
 
-• [Political Economy of Institutions and Development (MIT OCW)](https://ocw.mit.edu/courses/17-42-causes-and-prevention-of-war-spring-2009/)
-• [Global Development (edX – UQx)](https://www.edx.org/course/global-development)
-• Textbook: *Evans, Embedded Autonomy* (authoritative).
+(Quantitative, qualitative, and mixed-methods)
 
-### Track C: Culture, Identity, Media
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :---------: | :-----------------: | :------------------------------------------------------------------------------------------------------------ |
+| [Social Science Research – MIT OCW](https://ocw.mit.edu/courses/17-850-j-political-science-scope-and-methods-fall-2013/) | 14 weeks | 8–10 hrs/wk | none | Strong intro to research design. |
+| [Qualitative Research Methods — Harvard (Free)](https://pll.harvard.edu/course/qualitative-research-methods) | 12 weeks | 5–8 hrs/wk | none | Interviews, ethnography, coding. |
+| [Quantitative Methods for Social Sciences — edX (Harvard)](https://www.edx.org/learn/data-analysis/harvard-university-quantitative-methods-for-biology) | 10 weeks | 8–10 hrs/wk | High-school algebra | Strong applied quantitative thinking; though designed for biology, the methods generalize to social research. |
 
-• [Culture, Media, and Society (MIT OCW)](https://ocw.mit.edu/courses/21a-110-media-studies-introduction-to-media-studies-fall-2013/)
-• [Religion and Society (Coursera – Univ. Copenhagen)](https://www.coursera.org/learn/religion-society)
-• Textbook: *Swidler, Talk of Love* (cultural sociology classic).
+### Statistics & Data Skills
 
-### Track D: Organizations and Networks
+Essential for modern sociological work.
 
-• [Organizational Analysis (Stanford Online – Coursera)](https://www.coursera.org/learn/organizational-analysis)
-• [Social and Economic Networks (Stanford Online)](https://www.coursera.org/learn/social-economic-networks)
-• Textbook: *Powell & DiMaggio, The New Institutionalism in Organizational Analysis*.
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :----------------------------------------------------------------------------------------------------------- | :-------: | :----------: | :-----------: | :------------------------------------------------------------- |
+| [Statistics and R – Harvard edX](https://pll.harvard.edu/course/statistics-and-r) | 4–8 weeks | 4–6 hrs/wk | none | Practical stats for social sciences. |
+| [Data Analysis for Social Scientists – MITx](https://www.edx.org/course/data-analysis-for-social-scientists) | 14 weeks | 10–14 hrs/wk | intro stats | MIT-level, rigorous. |
+| [Sociology of Data: Computational Literacy (Textbook-based)] | — | 3–6 hrs/wk | some R | Suggested text: *Data Feminism* (MIT Press, free open access). |
 
----
+### Substantive Core Areas
 
-# Final Project (Capstone)
+Canonically required in most undergraduate programs.
 
-### Goal
-
-Design and execute an **independent research project** demonstrating theoretical framing, methodological rigor, and clear analysis.
-
-### Process
-
-1. **Proposal (3–5 pages)**: research question, literature review, theory, method.
-2. **Midterm checkpoint**: data collection or corpus assembly; preliminary analysis.
-3. **Final deliverable (15–25 pages)**: fully argued paper with figures/tables; reproducible code appendix (if quantitative).
-4. **Peer review**: exchange with peers via forums or research communities.
-5. **Public sharing**: GitHub repo (quant); PDF with appendices (qual).
-
-### Evaluation rubric
-
-• **Theoretical grounding**: clarity and correctness of concepts.
-• **Methodological rigor**: appropriate design, data integrity, analytic reasoning.
-• **Originality**: insight, creativity, contribution.
-• **Clarity**: structure, writing, logic.
-• **Reproducibility** (if quantitative): code + data.
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :---------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: | :-----------: | :---------------------------------------------------------- |
+| [Social Stratification – MIT OCW](https://ocw.mit.edu/courses/21a-950-social-theory-and-analysis-ii-spring-2009/) | 14 weeks | 6–10 hrs/wk | Intro, Theory | Inequality, class, occupation. |
+| [Race and Ethnicity – Stanford Online (YouTube/Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMyGQbXA0qN9rWnQFfcrPRA) | ~10 weeks | 4–6 hrs/wk | none | Lectures from a top set of scholars; no formal assignments. |
+| [Gender & Society – MIT OCW](https://ocw.mit.edu/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2016/) | 12 weeks | 5–8 hrs/wk | none | Feminist theory and gender dynamics. |
+| [Urban Sociology – MIT OCW](https://ocw.mit.edu/courses/11-014j-urban-sociology-international-perspectives-fall-2005/) | 14 weeks | 6–10 hrs/wk | none | Global urbanization, cities. |
+| [Global/Social Change – Coursera](https://www.coursera.org/learn/global-sociology) | 7 weeks | 3–5 hrs/wk | none | Globalization, development, transnational processes. |
 
 ---
 
-# 3. Alternatives and Resilience
+## Advanced Sociology
 
-### Backups for major courses
+Choose **one** specialization and complete all its courses. These mirror final-year undergraduate concentration tracks.
 
-• Intro: *Coursera – Social Science Approaches to the Study of Chinese Society*.
-• Quantitative methods: *Coursera – Methods and Statistics in Social Sciences Specialization (Amsterdam)* (audit free).
-• Theory: Yale OCW sociology lectures (video, not full course).
-• Race/gender: edX – “U.S. Public Policy: Social, Economic, and Foreign Policies” for inequality context.
+### Culture, Identity & Social Theory
 
-### Catch-up modules
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :---------------------------------------------------------------------------------------------------------------- | :------: | :---------: | :-------------: | :---------------------------------------------------- |
+| [The Anthropology of Politics – MIT OCW](https://ocw.mit.edu/courses/21a-217-anthropology-of-politics-fall-2010/) | 14 weeks | 6–10 hrs/wk | Core theory | Identity, power, symbolic systems. |
+| [Social Psychology – MIT OCW](https://ocw.mit.edu/courses/9-70-social-psychology-fall-2013/) | 14 weeks | 8–10 hrs/wk | none | Sociological social psychology complement. |
+| Textbook: *Cultural Sociology* by Jeffrey Alexander et al. | — | — | Theory sequence | Authoritative text for cultural-sociology frameworks. |
 
-• **Math for Social Scientists**: *Khan Academy – Statistics & Probability* (free).
-• **Academic writing**: *edX – English Grammar and Style (UQx)*.
-• **Research design basics**: Trochim’s *Research Methods Knowledge Base* (free).
+### Inequality, Organizations, & Labor
 
-### Free auditing
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :-------------------------------------------------------------------------------------------------------------- | :------: | :---------: | :-----------: | :------------------------------------- |
+| [Work, Employment & Society – MIT OCW](https://ocw.mit.edu/courses/21a-349-the-arts-of-organizing-spring-2012/) | 14 weeks | 6–10 hrs/wk | none | Sociological approaches to labor. |
+| [Social Movements – Coursera](https://www.coursera.org/learn/social-movements) | 6 weeks | 4–6 hrs/wk | Intro | Collective action, mobilization. |
+| Textbook: *Organizations: Rational, Natural, and Open Systems* (Scott & Davis) | — | — | none | Leading organizational sociology text. |
 
-• edX: “Audit this course” = full content access.
-• Coursera: “Audit only” mode available on most courses.
-• MIT OCW: Fully free.
+### Globalization, Development, & Environment
 
----
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :-------------------------------------------------------------------------------------------------------------------------------------- | :------: | :---------: | :-----------: | :------------------------------------------------------------------ |
+| [International Development – MIT OCW](https://ocw.mit.edu/courses/11-701-international-development-planning-fall-2011/) | 14 weeks | 6–10 hrs/wk | none | Development theory and policy. |
+| [Environmental Sociology (Textbook-based)] | — | 5–8 hrs/wk | Core theory | **Primary text:** *The Environment and Society* by Dunlap & Catton. |
+| [Global Inequality – LSE on EdX](https://www.edx.org/learn/social-science/global-inequality-an-introduction-london-school-of-economics) | 8 weeks | 6–8 hrs/wk | none | Cutting-edge global sociology. |
 
-# 4. Study Process and Checkpoints
+### Digital Society & Technology
 
-A weekly routine for ~20 hours:
-• ~6 hrs lectures
-• ~6 hrs readings
-• ~4 hrs notes + reflection
-• ~4 hrs assignments (mini-essays, data exercises)
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :------------------------------------------------------------------------------------------------------------------------------------ | :------: | :---------: | :-----------: | :---------------------------------- |
+| [Network Science – MIT OCW](https://ocw.mit.edu/courses/6-895-network-science-fall-2011/) | 14 weeks | 8–12 hrs/wk | quant methods | Foundations of social networks. |
+| [Computational Social Science – Coursera](https://www.coursera.org/specializations/computational-social-science) (choose 1–2 courses) | variable | 4–6 hrs/wk | some stats | Practical computational approaches. |
+| Textbook: *Society Online* (Robinson et al.) or *Digital Sociology* (Lupton) | — | — | none | Key conceptual frameworks. |
 
-Every **8–12 weeks**, complete:
-• One short analytic essay (1,000–1,500 words).
-• One methods checkpoint (mini-dataset analysis OR short interview/ethnography fieldnote).
-• One portfolio artifact: literature review, annotated bibliography, or coding notebook.
 
-Portfolio examples:
-• Ethnographic fieldnotes (2–3 observations).
-• Quant notebook: regression, visualization, RMarkdown.
-• Sociological essay on theory application.
-• Annotated bibliography of 20+ papers for capstone.
 
----
+## Final Project
 
-# 5. Specialization Tracks
+Working in progress
 
-All four listed above (Inequality; Political Economy; Culture/Identity/Media; Organizations/Networks) are selectable. Completing 2–3 courses in your track = concentration.
+## Congratulations
 
----
+After completing the requirements of the curriculum above,
+you will have completed the equivalent of a full bachelor's degree in Sociology.
+Congratulations!
 
-# 6. Summary Table (Key Courses Only)
+![keep learning](images/keep-learning.webp)
 
-| Course                                 | Platform       | Link                                                                                                                                                                 | Effort    | Prerequisites | Assessment           |
-| -------------------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------- | -------------------- |
-| Introduction to Anthropology/Sociology | MIT OCW        | [https://ocw.mit.edu/courses/21a-00-introduction-to-anthropology-spring-2013/](https://ocw.mit.edu/courses/21a-00-introduction-to-anthropology-spring-2013/)         | 5–6 h/w   | None          | Essays, readings     |
-| Global Sociology                       | edX–WellesleyX | [https://www.edx.org/course/global-sociology](https://www.edx.org/course/global-sociology)                                                                           | 5 h/w     | None          | Quizzes, essays      |
-| Sociology Research Methods             | Coursera       | [https://www.coursera.org/learn/introduction-to-sociology-research-methods](https://www.coursera.org/learn/introduction-to-sociology-research-methods)               | 6 h/w     | Intro         | Quizzes, assignments |
-| Data Analysis for Social Scientists    | MITx           | [https://www.edx.org/course/data-analysis-for-social-scientists](https://www.edx.org/course/data-analysis-for-social-scientists)                                     | 10–12 h/w | Basic math    | Problem sets, exams  |
-| Classical Social Theory                | Coursera       | [https://www.coursera.org/learn/classical-social-theory](https://www.coursera.org/learn/classical-social-theory)                                                     | 6 h/w     | Intro         | Essays               |
-| Social Networks                        | Coursera       | [https://www.coursera.org/learn/social-network-analysis](https://www.coursera.org/learn/social-network-analysis)                                                     | 4–5 h/w   | None          | Projects             |
-| Political Sociology                    | Coursera       | [https://www.coursera.org/learn/political-sociology](https://www.coursera.org/learn/political-sociology)                                                             | 5 h/w     | None          | Written work         |
-| Globalization                          | MIT OCW        | [https://ocw.mit.edu/courses/21a-382c-sociology-of-media-globalization-fall-2013/](https://ocw.mit.edu/courses/21a-382c-sociology-of-media-globalization-fall-2013/) | 5 h/w     | Intro         | Essays               |
-| Organizational Analysis                | Coursera       | [https://www.coursera.org/learn/organizational-analysis](https://www.coursera.org/learn/organizational-analysis)                                                     | 5 h/w     | None          | Case studies         |
+# Code of conduct
+[Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct).
 
-(Advanced track electives follow similarly; kept concise here.)
-
----
-
-# Prerequisite Graph (Simple)
-
-Intro → Classical Theory → Contemporary Theory
-Intro → Methods → (Qualitative, Quantitative) → Advanced electives → Capstone
-Stats/R basics → Data Analysis → Advanced quantitative electives
-Intro → Subfields → Specialization track → Capstone
-
----
