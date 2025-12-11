@@ -1,5 +1,4 @@
 <div align="center" style="text-align: center">
-<img src="images/logo.webp" alt=""/>
 <h3>Hocbigg - Sociology</h3>
 <p>
 Path to a free self-taught education in Sociology!
@@ -9,6 +8,7 @@ Path to a free self-taught education in Sociology!
 # Contents
 
 - [Summary](#summary)
+- [Communities](#communities)
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
 
@@ -20,8 +20,8 @@ This curriculum offers a comprehensive, self-paced, globally accessible sociolog
 
 The program emphasizes theory, research methods, data analysis, and substantive domains of sociological inquiry. It is designed for independent learners developing strong academic habits, critical reasoning, and the ability to interpret and conduct sociological research.
 
-When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
+Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
+they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
 
 ## Organization
 
@@ -35,10 +35,26 @@ they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/r
 **Process**. Students can work through the curriculum alone or in groups, in order or out of order.
 
 - We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week. A popular option is to take the math courses in parallel with the introductory courses. Course prerequisites are listed to help you determine if you are prepared for a given course.
-- Courses in Advanced are electives. Choose one subject (e.g. ) you want to become an expert in and take all the courses under that heading.
+- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week.
+- The courses in the Advanced section are electives. Choose one track to specialize in and complete all the courses listed under it.
 
 **[How to contribute](CONTRIBUTING.md)**
+
+
+# Communities
+
+- Forums:
+  - [Sociology Job Market Forum](https://socjobs.proboards.com/)
+  - [The GradCafe Sociology Forum](https://forum.thegradcafe.com/forum/46-sociology-forum/)
+- Subreddits:
+  - [r/sociology](https://www.reddit.com/r/sociology/)
+  - [r/AskSocialScience](https://www.reddit.com/r/AskSocialScience/)
+  - [r/socialscience](https://www.reddit.com/r/socialscience/)
+  - [r/academicsociology](https://www.reddit.com/r/academicsociology/)
+- Other:
+  - [sciences.social (Mastodon Instance)](https://sciences.social/)
+  - [Sociologists on Mastodon](https://trutzig89182.github.io/Mastodon-Sociologists/)
+- You can also interact through [GitHub issues](https://github.com/hocbigg/sociology/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 
 # Curriculum
 
@@ -65,8 +81,6 @@ Essential orientation and foundational understanding of the discipline.
 | [Introduction to Sociology – MIT OCW](https://ocw.mit.edu/courses/21a-01-introduction-to-anthropology-fall-2018/) | 14 weeks | 6–10 hrs/wk | none | MIT’s course titled “Anthropology” functions as an intro socio-cultural foundations. For classic sociology framing, pair with Yale below. |
 | [Introduction to Sociology – Yale OYC (Giddens/Collins tradition)](https://oyc.yale.edu/sociology/socy-151) | 24 lectures | ~8 hrs/wk | none | High-quality, canonical intro to sociology. |
 | [Learning How to Learn – Coursera](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2–3 hrs/wk | none | Academic habits, spaced repetition, note-taking. |
-
----
 
 ## Core Sociology
 
@@ -110,8 +124,6 @@ Canonically required in most undergraduate programs.
 | [Gender & Society – MIT OCW](https://ocw.mit.edu/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2016/) | 12 weeks | 5–8 hrs/wk | none | Feminist theory and gender dynamics. |
 | [Urban Sociology – MIT OCW](https://ocw.mit.edu/courses/11-014j-urban-sociology-international-perspectives-fall-2005/) | 14 weeks | 6–10 hrs/wk | none | Global urbanization, cities. |
 | [Global/Social Change – Coursera](https://www.coursera.org/learn/global-sociology) | 7 weeks | 3–5 hrs/wk | none | Globalization, development, transnational processes. |
-
----
 
 ## Advanced Sociology
 
@@ -161,7 +173,6 @@ After completing the requirements of the curriculum above,
 you will have completed the equivalent of a full bachelor's degree in Sociology.
 Congratulations!
 
-![keep learning](images/keep-learning.webp)
 
 # Code of conduct
 [Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct).
