@@ -6,11 +6,13 @@ or that there was an alternative that fit better into the curriculum.
 
 ## Topic
 
+
 Courses | Duration | Effort
 :-- | :--: | :--:
 Course name | ... | ...
 
 # Online Learning - Great Courses
+
 
 Courses | Duration | Effort
 :-- | :--: | :--:
