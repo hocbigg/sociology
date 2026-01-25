@@ -25,8 +25,8 @@ By building, writing, creating, or reconstructing real artifacts in the field, l
 
 ### Construct your own theoretical framework
 
-* [What Is a Theoretical Framework? | Guide to Organizing](https://www.scribbr.com/dissertation/theoretical-framework) (3-step process)
-* [Theoretical Frameworks | Examples & Strategies](https://atlasti.com/guides/qualitative-research-guide-part-1/theoretical-framework) (Step-by-step development)
+* [What Is a Theoretical Framework? sociology Guide to Organizing](https://www.scribbr.com/dissertation/theoretical-framework) (3-step process)
+* [Theoretical Frameworks sociology Examples & Strategies](https://atlasti.com/guides/qualitative-research-guide-part-1/theoretical-framework) (Step-by-step development)
 * [How to write a theoretical framework](https://www.thephdproofreaders.com/structuring-a-thesis/what-is-a-theoretical-framework) (Practical writing guide)
 
 ### Write your own monograph
