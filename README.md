@@ -1,10 +1,7 @@
-<div align="center" style="text-align: center">
-<img src="/images/logo.png" alt=""/>
-<h3>Hocbigg - Sociology</h3>
-<p>
-Path to a free self-taught education in Sociology!
-</p>
-</div>
+---
+title: Hocbigg - Sociology
+description: Path to a free self-taught education in Sociology!
+---
 
 # Contents
 
@@ -16,6 +13,20 @@ Path to a free self-taught education in Sociology!
 # Summary
 
 The Sociology curriculum is a comprehensive education in Sociology, designed for self-directed study using online materials.
+
+This repository is organized into three main components:
+
+- **Core Curriculum** (this page): the foundational knowledge of the field;
+- **[Advanced Topics](advanced_topics.md)**: focused study in specific areas;
+- **[Projects](projects.md)**: support learning through practical application throughout the curriculum.
+
+**Process:** Learners may work through the curriculum independently or collaboratively, and either sequentially or selectively.
+
+- For simplicity, courses in the Core Curriculum are ordered according to their prerequisites.
+- The Core Curriculum provides a shared foundation and is intended to be completed in full.
+- Advanced Topics are optional; learners are encouraged to select one area of focus and complete all courses within that topic.
+
+Practical work is integrated through the [Projects section](projects.md) and may be undertaken alongside coursework.
 
 Note: High-quality courses or books that do not fit into the core curriculum are listed separately in
 [extras/courses](extras/courses.md) and [extras/readings](extras/readings.md).
@@ -43,16 +54,16 @@ Practical work is integrated through the [Projects section](projects.md) and may
 # Communities
 
 - Forums:
-  - [Sociology Job Market Forum](https://socjobs.proboards.com/)
-  - [The GradCafe Sociology Forum](https://forum.thegradcafe.com/forum/46-sociology-forum/)
+    - [Sociology Job Market Forum](https://socjobs.proboards.com/)
+    - [The GradCafe Sociology Forum](https://forum.thegradcafe.com/forum/46-sociology-forum/)
 - Subreddits:
-  - [r/sociology](https://www.reddit.com/r/sociology/)
-  - [r/AskSocialScience](https://www.reddit.com/r/AskSocialScience/)
-  - [r/socialscience](https://www.reddit.com/r/socialscience/)
-  - [r/academicsociology](https://www.reddit.com/r/academicsociology/)
+    - [r/sociology](https://www.reddit.com/r/sociology/)
+    - [r/AskSocialScience](https://www.reddit.com/r/AskSocialScience/)
+    - [r/socialscience](https://www.reddit.com/r/socialscience/)
+    - [r/academicsociology](https://www.reddit.com/r/academicsociology/)
 - Other:
-  - [sciences.social (Mastodon Instance)](https://sciences.social/)
-  - [Sociologists on Mastodon](https://trutzig89182.github.io/Mastodon-Sociologists/)
+    - [sciences.social (Mastodon Instance)](https://sciences.social/)
+    - [Sociologists on Mastodon](https://trutzig89182.github.io/Mastodon-Sociologists/)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/sociology/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
 - Join our Discord server (for discussions around this and other curricula): 
     

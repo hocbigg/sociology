@@ -1,7 +1,0 @@
-title: Sociology
-remote_theme: "jekyll/minima@7d91bb5"
-minima:
-  skin: auto
-  nav_pages:
-    - advanced_topics.md
-    - projects.md
